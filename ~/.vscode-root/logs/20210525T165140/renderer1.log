@@ -1,0 +1,2 @@
+[2021-05-25 16:51:41.372] [renderer1] [info] no standard startup: not just one text editor
+[2021-05-25 16:52:23.806] [renderer1] [error] doSave(8) - exit - resulted in a save error: Error: File is Read Only {"$mid":1,"fsPath":"/home/guiller/Escritorio/NotaryApp/notaryApp/angular.json","external":"file:///home/guiller/Escritorio/NotaryApp/notaryApp/angular.json","path":"/home/guiller/Escritorio/NotaryApp/notaryApp/angular.json","scheme":"file"}
