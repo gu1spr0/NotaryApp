@@ -22,7 +22,7 @@ import { ErrorInterceptor } from './interceptors/error.interceptor';
     BrowserModule,
     BrowserAnimationsModule,
     BlockUIHttpModule.forRoot({
-      blockAllRequestsInProgress: true;
+      blockAllRequestsInProgress: true
     }),
     BlockUIModule.forRoot({
       template: BlockTemplateComponent

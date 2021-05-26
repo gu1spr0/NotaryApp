@@ -32,7 +32,7 @@ export class AuthService {
   }
 
   isLoginUser(): boolean{
-    return !!localStorage.getItem(VarLocalStorage.TOKEN);
+    return !localStorage.getItem(VarLocalStorage.TOKEN);
   }
 
   getUserToken(){
